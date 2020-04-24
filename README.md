@@ -1,3 +1,3 @@
 # webpack-for-react
 
-Webpackt and react starter kit
+Webpack4 and react starter kit
